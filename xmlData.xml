@@ -1,5 +1,5 @@
-<?xmlData version="1.0" encoding="utf-8">
-const xmlData = `
+<?xmlData version="1.0" encoding="utf-8"?>
+
 <Catalog>
     <Product ProductID="101"> 
         <Name>Smartphone</Name>
@@ -15,6 +15,5 @@ const xmlData = `
         <Price>799.99</Price>
         <Stock>15</Stock>
     </Product>
-</Catalog>`;
+</Catalog>
 
-module.exports = xmlData;
