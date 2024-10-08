@@ -1,4 +1,4 @@
-const jsonData = {
+{
     "Catalog": {
         "products": [
             {
@@ -21,6 +21,4 @@ const jsonData = {
             }
         ]
     }
-};
-
-module.exports = jsonData;
+}
